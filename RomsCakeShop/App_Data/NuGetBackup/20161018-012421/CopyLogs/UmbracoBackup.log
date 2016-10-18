@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, October 18, 2016 1:24:22 AM
+   Source : C:\users\lamtr\documents\visual studio 2015\Projects\RomsCakeShop\RomsCakeShop\Umbraco\
+     Dest : C:\users\lamtr\documents\visual studio 2015\Projects\RomsCakeShop\RomsCakeShop\App_Data\NuGetBackup\20161018-012421\Umbraco\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\users\lamtr\documents\visual studio 2015\Projects\RomsCakeShop\RomsCakeShop\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Tuesday, October 18, 2016 1:24:22 AM
+
